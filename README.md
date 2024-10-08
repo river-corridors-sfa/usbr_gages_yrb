@@ -1,5 +1,6 @@
 # usbr_gages_yrb
-Jupyter Notebook (Python) to download, analyze and plot U.S. Bureau of Reclamation stream gages in YRB
+
+Jupyter Notebook (Python) to download, analyze and plot data of U.S. Bureau of Reclamation stream gages in YRB
 
 ## Prerequisites
 
@@ -7,9 +8,7 @@ Jupyter Notebook (Python) to download, analyze and plot U.S. Bureau of Reclamati
 * Numpy
 * Matplotlib
 * Pandas
-* [tqdm]([https://pypi.org/project/tabulate/](https://github.com/tqdm/tqdm))
-
-Using [Anaconda](https://www.anaconda.com/distribution/) and using `conda` to create a virtual environment are recommended:
+* [tqdm](https://github.com/tqdm/tqdm)
 
 ## Examples
 
